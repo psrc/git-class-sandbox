@@ -1,1 +1,2 @@
 Suzanne is adding a line to this file!
+Carol is adding a line to this file too!
